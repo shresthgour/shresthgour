@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shresth Gour</h1>
-<h3 align="center">Full Stack Web Developer | React & Node.js Enthusiast</h3>
+<h3 align="center">Full Stack Developer | React, Next.js & Node.js</h3>
 
 <p align="center">
   <a href="mailto:akshat4575@gmail.com"><img src="https://img.shields.io/badge/Email-akshat4575@gmail.com-blue?style=flat-square&logo=gmail" /></a>
@@ -11,63 +11,70 @@
 
 ### 🚀 About Me
 
-- 🎯 Full Stack Developer passionate about building intuitive, scalable web apps.
-- 💡 Strong in **React.js**, **Node.js**, **Firebase**, **MongoDB**, and modern UI frameworks.
-- 💼 Internship experience with startups like **Physics Wallah** and **BuzzOnEarth**.
-- 📦 Built and deployed full-scale web apps with **secure auth**, **payment integration**, and **responsive UIs**.
-- 🧠 Lifelong learner, committed to writing clean and maintainable code.
+- 🎯 Full Stack Developer at **Eleve Technologies** (Jaipur, Remote) since January 2026.
+- 🏦 Working on **Finonest**, a loan platform with real customers: frontend, admin panel and Node.js API.
+- 🌐 Built **five other client websites** from first design to hosting.
+- 🤝 Talk to clients directly about requirements and demos, and teach two junior developers as part of the job.
+- 💡 Strong in **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB** and **MySQL**.
 
 ---
 
 ### 💼 Experience
 
-**Full Stack Developer Intern**  
-🧑‍💼 *BuzzOnEarth* | Remote  
-📅 *Sep 2023 – Sep 2024*  
-- Boosted performance of IndiaMUN by 20% via optimization.
-- Developed multiple new responsive pages and features.
-- Integrated **Razorpay**, developed **secure login systems**, and handled **Firebase-based data flow**.
-- Built **AceIndia** site from scratch based on design team specs.
+**Full Stack Web Developer**  
+🧑‍💼 *Eleve Technologies* | Jaipur (Remote)  
+📅 *Jan 2026 – Present*  
+
+**Finonest (loan platform): frontend, admin panel and Node.js API**
+- Built the **Used Car Loan application form** on a config-driven form component, with field validations, dependent fields and client rule changes. It submits to the API in the JSON format the backend team specified.
+- Wrote the **lead status flow**: next-status button, approval popup (loan amount, ROI, EMI, tenure), rejection reasons, RC collection and lead rework, on both the admin panel and the API.
+- Created APIs and screens for **bank product recommendations, recoveries and payouts** (with Excel download), banner CRUD, document upload, bulk upload of multiple files and manager assignment.
+- Connected **Gmail, Outlook and Zoho mail**, then built the mail trail and conversation view for each lead. Added **Google Places** autocomplete for addresses.
+- Cleared Jira tickets, build errors and PR merge conflicts, and sat in on client demos and test rounds.
+
+**Client websites: frontend, admin panel, backend**
+- **[Jaypore Murti](https://jayporemurti.com/)**: categories, products, sizes, stock, size charts, analytics, and a blog with a text editor and AI chatbot. Listed 200+ products and edited 200+ product photos.
+- **Shakti Puja**: built the site, admin, API and database, including an SMTP mailbox where admins read and reply to customer emails.
+- **[Nyaypath](https://nyaypath-new.netlify.app/)**: lawyer booking (three design versions).
+- **[Pooja Path](https://pooja-path-main.netlify.app/)**: pooja booking with pandit management.
+- **[Eleve Technologies site](https://www.techeleve.com/)**: the company website.
+- Made design variants and demo sites that the team used in client pitches.
+
+**Teaching (since Aug 2026)**
+- Assigned to teach two team members, with long daily sessions on top of project work.
 
 **Frontend Developer Intern**  
-🔬 *Physics Wallah* | Remote  
-📅 *May 2023 – Jun 2023*  
-- Designed and deployed a **responsive countdown app** using **React**, **JS**, and **Tailwind CSS**.
-- Managed a 2-person dev team for the project execution.
+🧑‍💼 *BuzzOnEarth* | Remote  
+📅 *Sep 2023 – Dec 2023*  
+- Built **MERN stack** web apps and deployed them to hosting providers.
+- Improved site performance and added security measures across the site.
 
 ---
 
 ### 🧠 Tech Stack
 
-**Languages**: JavaScript, TypeScript, Python, C++, SQL  
-**Frontend**: React.js, Tailwind CSS, Bootstrap 5  
-**Backend**: Node.js, Express.js, Firebase  
-**Database**: MongoDB  
-**Tools**: Git, GitHub, Figma, Axios  
-**Others**: Three.js, REST APIs, WordPress  
+**Frontend**: React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Material UI, Formik, Three.js  
+**Backend**: Node.js, Express.js, REST APIs, CRUD, SMTP, Gmail / Outlook / Zoho mail integration  
+**Databases**: MongoDB, MySQL  
+**Tools**: Git, GitHub, Postman, Jira, Figma, Vercel, Netlify, server hosting, auto-deploy on push  
+**Other**: Google Places API, Payment Gateway Integration, AI chatbot integration, SEO basics  
 
 ---
 
-### 📌 Highlight Projects
-
-#### 🏦 Hoobank Landing Page  
-> Futuristic, responsive banking website UI  
-🔗 [Visit Project](https://hoobank-site-main.netlify.app)  
-- Built using **React + Tailwind**  
-- Dynamic layout and fully responsive design
+### 📌 Highlight Project
 
 #### 🎮 3D Playground: Interactive 3D Design Tool  
-🔗 [Visit Project](https://3dground.netlify.app)  
-- Used **Three.js** to design and manipulate 3D objects  
-- Feature-rich toggle between 2D/3D, shape drawing, textures, 3D object editing  
-- Collaborative project built with **React + Tailwind**
+> A browser tool for drawing shapes and placing playground objects in 3D  
+🔗 [Live Demo](https://3d-playground-psi.vercel.app/) | [GitHub](https://github.com/shresthgour/3D-Playground)  
+- Draw shapes with **Bézier curves** and get a **live area calculation**
+- Place playground models with **collision detection**, textures and model scaling
+- Built with **React + Three.js + React Three Fiber + Tailwind**, deployed on Vercel
 
-#### 🌐 AceIndia & IndiaMUN Enhancements  
-> Production-level projects for real organizations  
-🔗 [aceindia.in](https://aceindia.in) | [IndiaMUN](https://indiamun.org)  
-- Added secure auth, custom Firebase hooks, new UI sections  
-- Razorpay payment integration  
-- Built complete responsive websites from scratch
+---
+
+### 🎓 Education
+
+**Vivekananda Institute of Technology, Jaipur**: B.Tech, Computer Science Engineering (2021 – 2025)
 
 ---
 
@@ -76,14 +83,7 @@
 - 📧 Email: akshat4575@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/shresthgour](https://linkedin.com/in/shresthgour/)  
 - 🌐 Portfolio: [shresth-gour.netlify.app](https://shresth-gour.netlify.app/)  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresthgour&theme=tokyonight" />
-</p>
+- 📍 Jaipur, Rajasthan  
 
 ---
 
